@@ -1,0 +1,11 @@
+service\MainClientSoap.class
+service\SearchGender.class
+service\Service.class
+service\SearchArtistResponse.class
+service\SearchGenderResponse.class
+service\package-info.class
+service\SearchArtist.class
+service\SearchName.class
+service\SearchNameResponse.class
+service\ObjectFactory.class
+service\ServiceService.class
